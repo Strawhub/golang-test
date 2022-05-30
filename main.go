@@ -1,5 +1,7 @@
 package main
 
+/*check*/
+
 import (
 	"fmt"
 	"os"
